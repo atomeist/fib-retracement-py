@@ -11,5 +11,5 @@ pip install git+https://github.com/atomeist/fib-retracement-py.git
 
 from fib_retracement import get_fib_retracement
 
-fib = get_fib_retracement(0, 10)
+fib = get_fib_retracement(0, 100)
 print(fib)
