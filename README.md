@@ -7,7 +7,7 @@ A simple Python package to calculate Fibonacci retracement levels.
 Clone this repository and install using pip:
 
 ```bash
-pip install .
+pip install git+https://github.com/atomeist/fib-retracement-py.git
 
 from fib_retracement import get_fib_retracement
 
